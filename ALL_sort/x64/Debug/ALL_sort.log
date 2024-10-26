@@ -1,0 +1,10 @@
+﻿  ALL_sort.cpp
+C:\Users\sa_bo\source\repos\ALL_sort\ALL_sort.cpp(219,24): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\sa_bo\source\repos\ALL_sort\ALL_sort.cpp(237,24): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\sa_bo\source\repos\ALL_sort\ALL_sort.cpp(339,33): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\sa_bo\source\repos\ALL_sort\ALL_sort.cpp(347,47): warning C4244: аргумент: преобразование "double" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+  ALL_sort.vcxproj -> C:\Users\sa_bo\source\repos\ALL_sort\x64\Debug\ALL_sort.exe
